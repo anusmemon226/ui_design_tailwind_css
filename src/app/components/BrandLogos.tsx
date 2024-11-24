@@ -3,7 +3,7 @@ import React from "react";
 function BrandLogos() {
   return (
     <div className="px-12 py-8 bg-gray-100">
-      <div className="grid grid-cols-2 gap-8 text-gray-500 sm:gap-12 sm:grid-cols-3 lg:grid-cols-6 dark:text-gray-400">
+      <div className="grid grid-cols-2 gap-8 text-gray-500 sm:gap-12 sm:grid-cols-3 lg:grid-cols-6">
         <a href="#" className="flex items-center lg:justify-center">
           <svg
             className="h-9 hover:text-gray-900 dark:hover:text-white"
