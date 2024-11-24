@@ -8,7 +8,7 @@ import Pricing from "./components/Pricing";
 
 export default function Home() {
   return (
-    <div>
+    <div className="bg-white">
       <Navbar/>
       <HeroSection/>
       <BrandLogos/>
